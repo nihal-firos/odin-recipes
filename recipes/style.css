@@ -1,0 +1,28 @@
+body {
+    background-color: lightsalmon;
+}
+
+#heading {
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+li {
+    font-size: 28px;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
