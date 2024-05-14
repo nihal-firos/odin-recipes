@@ -7,8 +7,21 @@ body {
     font-weight: bold;
     text-decoration: underline;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0;
 }
 
 li {
     font-size: 28px;
+}
+
+div{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+.container{
+    background-color: aquamarine;
+    width: fit-content;
+    padding: 16px;
+    border-radius: 30px;
 }
